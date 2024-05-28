@@ -1,0 +1,1 @@
+# This is a simple example of puppeteerjs with typescript and nodejs
